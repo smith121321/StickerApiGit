@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Toast.makeText(getApplicationContext(), "This is my first repository", Toast.LENGTH_SHORT).show();
+        Toast.makeText(getApplicationContext(), "This is my 2nd repository", Toast.LENGTH_SHORT).show();
     }
 }
